@@ -43,22 +43,22 @@ es = EarlyStopping(monitor='val_loss',
 model = Sequential()
 model.add(BatchNormalization())
 model.add(Dense(32, input_shape=([X_train.shape[1],]), activation='LeakyReLU', kernel_regularizer=l1_l2(l1=0.005, l2=0.005))) # Add an input shape! (features,)
-model.add(Dropout(0.5))
-model.add(Dense(32, activation='LeakyReLU',kernel_regularizer=l1_l2(l1=0.006, l2=0.006)))
-model.add(Dropout(0.5))
+model.add(Dropout(0.4))
+model.add(Dense(32, activation='LeakyReLU',kernel_regularizer=l1_l2(l1=0.005, l2=0.005)))
+model.add(Dropout(0.3))
 model.add(Dense(1, activation='sigmoid'))
 model.build(input_shape=(None, X_train.shape[1]))
 model.summary()
 
 # compile the model
 model.compile(loss=BinaryCrossentropy(),  # Use BinaryCrossentropy for binary classification
-            optimizer=Adam(0.00025),
+            optimizer=Adam(0.0005),
               metrics=['accuracy'])
 
 history = model.fit(X_train,
                     y_train,
                     epochs=800, # you can set this to a big number!
-                    batch_size=10,
+                    batch_size=8,
                     validation_data=(X_test, y_test),
                     shuffle=True,
                     callbacks=[es],

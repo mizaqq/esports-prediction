@@ -16,7 +16,7 @@ def comparing_last(matches,teamsAllValues):
                                         "openmaxRating",'ratingPis','ratingminPis','ratingmaxPis',"minRating","maxRating",
                                          'Kda','minKda','maxKda','last10'])
 
-    for j in range(0,598):
+    for j in range(0,690):
         team1=teamsAllValues[teamsAllValues['Team']==matches['Team1'][j]]
         team2=teamsAllValues[teamsAllValues['Team']==matches['Team2'][j]]
         if (len(team1)>0 and len(team2)>0):

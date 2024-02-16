@@ -16,7 +16,7 @@ def making_trainingset(matches,players,teams):
                                          'Kda','minKda','maxKda','last10'])
     lastmatches=matches
 
-    for j in range(1,147):
+    for j in range(1,135):
 
         team1=teams.loc[j]
 

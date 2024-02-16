@@ -12,13 +12,25 @@ from sklearn.model_selection import train_test_split
 from keras.models import load_model
 import tensorflow as tf
 import autokeras as ak
+import betting
 
+def fix(odds):
+    i=int(input('row '))
+    j=int(input('Team number'))
+    name=input('Name ')
+    odds.iat[i,j-1]= name
+    return odds
+    
 def wynik(row):
     if (row['Result']>=0.5001):
-        return row['Team1']+" " + str(np.round(row['Result']*100,2))+'%'
+        return row['Team1']
     else:
-        return row['Team2']+" " + str(100-np.round(row['Result']*100,2))+'%'
-#aktualizowanie danych
+        return row['Team2']
+def wynik1(row):
+    if (row['Result']>=0.5001):
+        return row['Result']
+    else:
+        return 1-row['Result']
 def update_data():
     import readplayers
     import comparing
@@ -49,18 +61,23 @@ def predictor(teamsCurrStats,teamsAllStats):
 
     loaded_model = load_model('autokeras_modelsolo5.keras')
     y_test=np.asarray(y_test).astype(int)
-    loaded_model.evaluate(X_test,y_test)
+    y_preds=loaded_model.predict(X_test)
+    losses = np.subtract(y_test, y_preds)**2
+    brier_score = losses.sum()/len(y_test)
+    print("Brier score",brier_score)
+    acc=loaded_model.evaluate(X_test,y_test)
+    
     predictingX=teamsCurrStats[['Rating','openRating','openminRating','openmaxRating','ratingPis','ratingminPis','ratingmaxPis','minRating','maxRating','Kda','minKda',"maxKda",'last10']]
     predictingX_sc=scaler.transform(predictingX)
     preds = np.round(loaded_model.predict(predictingX_sc),3)
-
     teamsCurrStats['Result']=preds
-    teamsCurrStats['Result']=teamsCurrStats.apply(wynik,axis=1)
-    predsfinal=teamsCurrStats[['Team1','Team2','Result']]
+    xxyz=pd.DataFrame(teamsCurrStats)
+    xxyz.to_excel("preds.xlsx")
+    teamsCurrStats['ResultTeam']=teamsCurrStats.apply(wynik,axis=1)
+    teamsCurrStats['Result']=teamsCurrStats.apply(wynik1,axis=1)
+    predsfinal=teamsCurrStats[['Team1','Team2','Result','ResultTeam']]
     print(predsfinal)
-    x=pd.DataFrame(predsfinal)
-    x.to_excel('preds.xlsx')
-    return predsfinal
+    return predsfinal,acc,brier_score
 
 
 
@@ -76,5 +93,45 @@ else:
     teamsAllStats1,players2,matches2,teams2=update_data()
     currMatches = today_matches(teams2,players2,matches2)
 x=currMatches
-print(x)
-preds=predictor(x,teamsAllStats1)
+preds,acc,brier=predictor(x,teamsAllStats1)
+wait=input('Wait')
+if wait=="stop":
+    print('koniec')
+elif wait=='skip':
+    print('skip')
+else:
+    odds=betting.readodds()
+    preds['Team1']=preds['Team1'].str.lower()
+    preds['Team2']=preds['Team2'].str.lower()
+    preds['ResultTeam']=preds['ResultTeam'].str.lower()
+    odds['Team1']=odds['Team1'].str.lower()
+    odds['Team2']=odds['Team2'].str.lower()
+    print(odds)
+    y=input("Fix? ")
+    while(y=='T'):
+        odds=fix(odds)
+        print(odds)
+        y=input("Next fix? ")
+    merged_df = pd.merge(preds, odds, on=['Team1','Team2'], how='inner')
+    merged_df=merged_df[['Team1','Team2','odd1','odd2','Result','ResultTeam']]
+    money=float(input("Wartość ekwipunku? "))
+    r=acc[1]-brier
+    calc=pd.DataFrame()
+    calc['Team1']=merged_df['Team1']
+    calc['Team2']=merged_df['Team2']
+    calc['Odd']=np.where(merged_df['ResultTeam'] == merged_df['Team1'], merged_df['odd1'], merged_df['odd2']).astype(float)
+    calc['Winner']=merged_df['ResultTeam']
+    calc['Result']=merged_df['Result']
+    calc['betAmount']=((calc['Odd']*calc['Result']-1)/(calc['Odd']-1))*r*money
+    print(calc)
+    add=input("Dodatkowe Kalkulacje?")
+    calc.to_excel("bets.xlsx")
+add=input("Dodatkowe Kalkulacje?")
+if(add=='T'):
+    money=float(input("Wartość ekwipunku? "))
+    r=acc[1]-brier
+while(add=='T'):
+    odds=float(input('Odds na stronie'))
+    resultpred=float(input('Szanse'))
+    print(((odds*resultpred-1)/(odds-1))*r*money)
+    add=input("Next team?")
