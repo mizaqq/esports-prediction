@@ -20,6 +20,14 @@ consistency, efficient retrieval and scalability.
 Model after optimalization achieved high precision of 0.685 in test
 data, and it doesnt show overfitting
 
+Database model look as follows
+
+<div class="db_model">
+
+![](readme_img/db_schema.png)
+
+</div>
+
 </div>
 
 <div class="cell code" execution_count="10">
@@ -196,12 +204,5 @@ In evaluating model we focus more on its precision because the false
 positive can result in losing money while betting. With this precision
 optimal betting using Kelly's criterion should result in continious
 profit
-
-</div>
-
-<div class="cell code">
-
-``` python
-```
 
 </div>
