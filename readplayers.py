@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import pandas as pd
-import requests
 import datetime
 from dateutil.relativedelta import relativedelta
 import undetected_chromedriver as webdriver

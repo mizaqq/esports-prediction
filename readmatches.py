@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 import requests
-import asyncio
+
 def read():
     url="https://bo3.gg/matches/finished?period=last_3_months&tiers=s,a,b&page=" 
     scores1=[]

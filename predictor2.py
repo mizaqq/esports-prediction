@@ -36,9 +36,9 @@ data = make_training_data()
 y=data['result'].astype(int)
 X=data[["Rating","Kda","openRating","pistolRating","last10m"]].astype(float)
 
-X_train,X_test,y_train,y_test = train_test_split(X,y,train_size=0.7)
+X_train,X_test,y_train,y_test = train_test_split(X,y,train_size=0.7,random_state=1)
 
-model = XGBClassifier(max_depth=2, learning_rate=0.05, subsample = 0.5,eval_metric='map',objective='binary:logistic')
+model = XGBClassifier(max_depth=3, learning_rate=0.005, subsample = 0.5,eval_metric='map',objective='binary:logistic', reg_lambda=11)
 model.fit(X_train,y_train)
 
 get_roc_plot(model,X_train,X_test,y_train,y_test)

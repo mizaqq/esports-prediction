@@ -2,7 +2,6 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
-import asyncio
 
 url="https://bo3.gg/teams/earnings"    
 p1s=[]

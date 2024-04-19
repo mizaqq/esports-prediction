@@ -1,14 +1,7 @@
 from bs4 import BeautifulSoup
 import pandas as pd
-import requests
 from selenium import webdriver
-import datetime
-from dateutil.relativedelta import relativedelta
-import numpy as np
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import time
     
