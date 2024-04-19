@@ -107,31 +107,31 @@ for i in X.columns:
 
 <div class="output display_data">
 
-![](509f1a15d60859cf9d2184be04f19ae2cf199d19.png)
+![](readme_img/509f1a15d60859cf9d2184be04f19ae2cf199d19.png)
 
 </div>
 
 <div class="output display_data">
 
-![](05f83464fd5c72f8754370efca0e42e00d0319ea.png)
+![](readme_img/05f83464fd5c72f8754370efca0e42e00d0319ea.png)
 
 </div>
 
 <div class="output display_data">
 
-![](2af4b49a4bc45c195de4343110df5c196eade40b.png)
+![](readme_img/2af4b49a4bc45c195de4343110df5c196eade40b.png)
 
 </div>
 
 <div class="output display_data">
 
-![](13560ec042eecda14887f6d7576c2b4da1729772.png)
+![](readme_img/13560ec042eecda14887f6d7576c2b4da1729772.png)
 
 </div>
 
 <div class="output display_data">
 
-![](190d51a3cbc87ccf87cf08b627cc9c97099a282c.png)
+![](readme_img/190d51a3cbc87ccf87cf08b627cc9c97099a282c.png)
 
 </div>
 
