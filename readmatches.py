@@ -10,7 +10,7 @@ def read():
     scores2=[]
     teams1=[]
     teams2=[]   
-    for i in range(1,5):
+    for i in range(1,10):
         response = requests.get(url+str(i))
         soup = BeautifulSoup(response.text, 'html.parser')
         for a in soup.findAll("div",attrs={"class":"c-match"}):
@@ -29,6 +29,4 @@ def read():
     data={"Team1":teams1,"Team2":teams2,"score1":scores1,"score2":scores2}
     df=pd.DataFrame(data)
     df.dropna()
-    df.to_csv("matches.csv")
     return df
-read()

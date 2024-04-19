@@ -11,7 +11,7 @@ p3s=[]
 p4s=[]
 p5s=[]
 teams=[]  
-for i in range(1,22):
+for i in range(1,30):
     if(i>1):
         url="https://bo3.gg/teams/earnings/?page="+str(i)
     response = requests.get(url)

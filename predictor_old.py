@@ -37,7 +37,7 @@ def update_data():
     import making_trainingset
     import readmatches
 
-    players2 = readplayers.read_players(1)
+    players2 = readplayers.read_players(3)
     matches2 = readmatches.read()
     teams2 = pd.read_csv('teams.csv')
 
