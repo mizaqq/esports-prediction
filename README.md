@@ -183,7 +183,7 @@ get_roc_plot(model,X_train,X_test,y_train,y_test)
 
 <div class="output display_data">
 
-![](bed76f5c989b0ae493a517b23c43085ae643e132.png)
+![](readme_img/bed76f5c989b0ae493a517b23c43085ae643e132.png)
 
 </div>
 
