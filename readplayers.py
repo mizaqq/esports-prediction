@@ -63,5 +63,5 @@ def read_players(months):
     PlayersMerged.to_csv("players1m.csv")
     dr.close()
     return PlayersMerged
-
+read_players(3)
 

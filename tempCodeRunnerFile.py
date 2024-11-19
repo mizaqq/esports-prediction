@@ -1,2 +1,0 @@
-acje?")
-while(add=='T'):

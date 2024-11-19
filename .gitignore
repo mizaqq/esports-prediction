@@ -1,0 +1,11 @@
+venv/
+.vscode
+__pycache__
+*.pyc
+__pycache__/
+*.pyc/
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+.cpython-*

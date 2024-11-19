@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "esports-prediction"
+version = "0.1.0"
+description = ""
+authors = ["mizaqq <michal.zareba@softwaremill.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sqlalchemy = "^2.0.36"
+xgboost = "^2.1.2"
+pandas = "^2.2.3"
+bs4 = "^0.0.2"
+matplotlib = "^3.9.2"
+undetected-chromedriver = "^3.5.5"
+keras = "^3.6.0"
+openpyxl = "^3.1.5"
+tensorflow = "^2.18.0"
+scikit-learn = "^1.5.2"
+scipy = "^1.14.1"
+psycopg2-binary = "^2.9.10"
+pyqt5 = "5.15.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

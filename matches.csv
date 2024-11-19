@@ -1,0 +1,1521 @@
+,Team1,Team2,score1,score2
+0,ShindeN,LaChampionsLiga,2,0
+1,Players,paiN Academy,2,0
+2,GameHunters,VELOX,2,0
+3,GamerLegion,UNiTY,2,1
+4,FaZe,Vitality,0,2
+5,Nemiga,Rebels,2,1
+6,Natus Vincere,MOUZ,1,2
+7,Falcons,SAW,0,1
+8,fnatic,BetBoom,1,0
+9,Cloud9,Sangal,1,0
+10,SINNERS,ECLOT,1,0
+11,Romania,Portugal,2,0
+12,Sweden,Serbia,1,2
+13,FaZe,Falcons,1,0
+14,SAW,UNiTY,1,0
+15,MOUZ,Sangal,1,0
+16,Nemiga,Cloud9,0,1
+17,fnatic,Rebels,1,0
+18,Vitality,BetBoom,1,0
+19,Natus Vincere,SINNERS,1,0
+20,GamerLegion,ECLOT,0,1
+21,Serbia,Portugal,1,2
+22,Sweden,Romania,1,2
+23,BetBoom,UNiTY,1,0
+24,Sangal,Rebels,1,0
+25,Falcons,ECLOT,1,0
+26,SAW,SINNERS,0,1
+27,FaZe,Cloud9,1,0
+28,MOUZ,Nemiga,1,0
+29,Vitality,GamerLegion,1,0
+30,Natus Vincere,fnatic,1,0
+31,Romania,Portugal,2,0
+32,Sweden,Serbia,1,2
+33,FaZe,Falcons,1,0
+34,SAW,UNiTY,1,0
+35,MOUZ,Sangal,1,0
+36,Nemiga,Cloud9,0,1
+37,fnatic,Rebels,1,0
+38,Vitality,BetBoom,1,0
+39,Natus Vincere,SINNERS,1,0
+40,GamerLegion,ECLOT,0,1
+41,Kazakhstan,Portugal,1,2
+42,Romania,Germany,2,1
+43,Poland,Serbia,1,2
+44,Anonymo,Kubix,0,3
+45,Sweden,Mongolia,2,0
+46,Hungary,Germany,0,1
+47,Jordan,Portugal,0,1
+48,USA,Romania,0,1
+49,Kazakhstan,Ukraine,1,0
+50,Chile,Kosovo,1,0
+51,Tunisia,Latvia,0,1
+52,Germany,Portugal,1,0
+53,Kosovo,Hungary,0,1
+54,Kazakhstan,Tunisia,1,0
+55,Romania,Latvia,1,0
+56,Chile,Jordan,1,0
+57,Ukraine,USA,1,0
+58,Australia,Poland,0,1
+59,Norway,Turkey,1,0
+60,Argentina,Slovakia,1,0
+61,Mongolia,Czech Republic,0,1
+62,South Africa,Serbia,0,1
+63,Canada,Sweden,0,1
+64,M80,FURIA,0,2
+65,Sweden,Norway,1,0
+66,Czech Republic,Argentina,0,1
+67,Slovakia,Serbia,1,0
+68,Canada,Australia,0,1
+69,Turkey,Poland,0,1
+70,Mongolia,South Africa,1,0
+71,9z,FURIA,0,2
+72,Imperial,RED Canids,2,0
+73,BESTIA,M80,1,2
+74,Romania,Germany,2,1
+75,Poland,Serbia,1,2
+76,Anonymo,Kubix,0,3
+77,Sweden,Mongolia,2,0
+78,Hungary,Germany,0,1
+79,Jordan,Portugal,0,1
+80,USA,Romania,0,1
+81,Kazakhstan,Ukraine,1,0
+82,M80,FURIA,0,2
+83,Sweden,Norway,1,0
+84,Czech Republic,Argentina,0,1
+85,Slovakia,Serbia,1,0
+86,Canada,Australia,0,1
+87,Turkey,Poland,0,1
+88,Mongolia,South Africa,1,0
+89,9z,FURIA,0,2
+90,Imperial,RED Canids,2,0
+91,BESTIA,M80,1,2
+92,Serbia,Czech Republic,1,0
+93,South Africa,Slovakia,0,1
+94,Argentina,Mongolia,0,1
+95,Australia,Turkey,0,1
+96,Poland,Sweden,0,1
+97,Norway,Canada,1,0
+98,Tunisia,Romania,0,1
+99,Latvia,Ukraine,1,0
+100,USA,Kazakhstan,0,1
+101,Kazakhstan,Latvia,1,0
+102,USA,Tunisia,0,1
+103,Ukraine,Romania,0,1
+104,Tunisia,Ukraine,0,1
+105,Romania,Kazakhstan,0,1
+106,Latvia,USA,1,0
+107,Portugal,Kosovo,1,0
+108,Jordan,Germany,0,1
+109,Hungary,Chile,1,0
+110,Chile,Portugal,0,1
+111,Hungary,Jordan,1,0
+112,Kosovo,Germany,0,1
+113,Germany,Chile,1,0
+114,Jordan,Kosovo,1,0
+115,Portugal,Hungary,1,0
+116,Liquid,FURIA,2,1
+117,Legacy,RED Canids,0,2
+118,Imperial,KRÜ,2,0
+119,Complexity,M80,2,0
+120,BOSS,BESTIA,1,2
+121,9z,paiN,0,2
+122,Tunisia,Ukraine,0,1
+123,Romania,Kazakhstan,0,1
+124,Latvia,USA,1,0
+125,Portugal,Kosovo,1,0
+126,Jordan,Germany,0,1
+127,Hungary,Chile,1,0
+128,Chile,Portugal,0,1
+129,Hungary,Jordan,1,0
+130,Kosovo,Germany,0,1
+131,Germany,Chile,1,0
+132,Jordan,Kosovo,1,0
+133,Czech Republic,Slovakia,1,0
+134,Argentina,South Africa,1,0
+135,Mongolia,Serbia,0,1
+136,South Africa,Czech Republic,0,1
+137,Slovakia,Mongolia,0,1
+138,Serbia,Argentina,1,0
+139,Canada,Poland,0,1
+140,Sweden,Turkey,0,1
+141,Norway,Australia,1,0
+142,Turkey,Canada,0,1
+143,Australia,Sweden,0,1
+144,Poland,Norway,1,0
+145,Lynn Vision,FlyQuest,0,2
+146,RED Canids,Case,2,1
+147,Complexity,MIBR,0,2
+148,TALON,Lynn Vision,0,2
+149,Wildcard,9z,2,0
+150,KRÜ,Nouns,2,1
+151,paiN,Imperial,1,0
+152,Liquid,BESTIA,1,0
+153,DRILLAS,FlyQuest,1,2
+154,Legacy,M80,0,1
+155,FURIA,BOSS,1,0
+156,Slovakia,Mongolia,0,1
+157,Serbia,Argentina,1,0
+158,Canada,Poland,0,1
+159,Sweden,Turkey,0,1
+160,Norway,Australia,1,0
+161,Turkey,Canada,0,1
+162,Australia,Sweden,0,1
+163,Poland,Norway,1,0
+164,Lynn Vision,FlyQuest,0,2
+165,RED Canids,Case,2,1
+166,Complexity,MIBR,0,2
+167,500,BetBoom,0,2
+168,Liquid,KRÜ,1,0
+169,Imperial,MIBR,0,1
+170,BetBoom,Ninjas in Pyjamas,2,0
+171,M80,RED Canids,1,0
+172,Complexity,BOSS,1,0
+173,FURIA,Case,1,0
+174,Rare Atom,TALON,2,0
+175,Wildcard,paiN,1,0
+176,BESTIA,Nouns,1,0
+177,Legacy,9z,0,1
+178,GUN5,500,1,2
+179,The MongolZ,DRILLAS,2,1
+180,MIBR,KRÜ,1,0
+181,Imperial,Case,1,0
+182,9z,RED Canids,1,0
+183,M80,BOSS,0,1
+184,Complexity,BESTIA,1,0
+185,paiN,Nouns,1,0
+186,GR,FlyQuest,0,2
+187,Liquid,Wildcard,0,1
+188,FURIA,Legacy,0,1
+189,Alter Ego,Lynn Vision,1,2
+190,BetBoom,Ninjas in Pyjamas,2,0
+191,M80,RED Canids,1,0
+192,Complexity,BOSS,1,0
+193,FURIA,Case,1,0
+194,Rare Atom,TALON,2,0
+195,Wildcard,paiN,1,0
+196,BESTIA,Nouns,1,0
+197,Legacy,9z,0,1
+198,GUN5,500,1,2
+199,The MongolZ,DRILLAS,2,1
+200,MIBR,KRÜ,1,0
+201,Imperial,Case,1,0
+202,Ninjas in Pyjamas,Zero Tenacity,2,0
+203,BetBoom,ECLOT,2,1
+204,TALON,FlyQuest,1,0
+205,ENCE,500,0,2
+206,Rare Atom,GR,1,0
+207,DRILLAS,Lynn Vision,1,0
+208,BIG,GUN5,1,2
+209,The MongolZ,Alter Ego,1,0
+210,TALON,FlyQuest,1,0
+211,ENCE,500,0,2
+212,Rare Atom,GR,1,0
+213,DRILLAS,Lynn Vision,1,0
+214,BIG,GUN5,1,2
+215,The MongolZ,Alter Ego,1,0
+216,Gaimin Gladiators,Zero Tenacity,1,2
+217,SINNERS,ECLOT,0,2
+218,9 Pandas,500,0,2
+219,GUN5,9INE,2,1
+220,Fluxo,Sharks,2,1
+221,Fluxo,ODDIK,2,1
+222,Sharks,Solid,2,1
+223,Ninjas in Pyjamas,Metizport,0,3
+224,Nemiga,NAVI Junior,0,2
+225,Fluxo,Tropa do Taco,2,0
+226,ODDIK,Players,2,0
+227,Johnny Speeds,Metizport,0,2
+228,Sharks,GameHunters,2,0
+229,Ninjas in Pyjamas,Alliance,2,0
+230,AMKAL,9INE,1,2
+231,Solid,Hype,2,1
+232,Nemiga,500,2,1
+233,Johnny Speeds,Zero Tenacity,,
+234,NAVI Junior,Aurora,2,0
+235,500,Sashi,2,0
+236,Sharks,MIBR Academy,2,0
+237,ODDIK,Players,2,0
+238,Johnny Speeds,Metizport,0,2
+239,Sharks,GameHunters,2,0
+240,Ninjas in Pyjamas,Alliance,2,0
+241,AMKAL,9INE,1,2
+242,Solid,Hype,2,1
+243,Nemiga,500,2,1
+244,Johnny Speeds,Zero Tenacity,,
+245,NAVI Junior,Aurora,2,0
+246,500,Sashi,2,0
+247,Sharks,MIBR Academy,2,0
+248,Metizport,Kappa Bar,2,1
+249,Intense,Tropa do Taco,0,2
+250,inSanitY,Players,,
+251,NAVI Junior,OG,2,0
+252,ODDIK,Vikings KR,2,1
+253,Alliance,EYEBALLERS,2,1
+254,Aurora,9 Pandas,2,1
+255,AMKAL,Gaimin Gladiators,0,2
+256,500,Monte,2,1
+257,Sashi,OG,2,0
+258,SINNERS,500,2,1
+259,Nemiga,PARIVISION,2,0
+260,Hype,ShindeN,2,0
+261,Solid,SENSEI,2,0
+262,BetBoom,OG,0,2
+263,Bad News Chickens,GameHunters,1,2
+264,PARIVISION,SINNERS,2,1
+265,Into the Breach,9INE,1,2
+266,Fluxo,9z Academy,2,0
+267,Monte,Spirit Academy,2,0
+268,Zero Tenacity,HOTU,2,0
+269,Johnny Speeds,ECLOT,0,2
+270,Passion UA,500,1,2
+271,Nemiga,PARIVISION,2,0
+272,Hype,ShindeN,2,0
+273,Solid,SENSEI,2,0
+274,BetBoom,OG,0,2
+275,Bad News Chickens,GameHunters,1,2
+276,PARIVISION,SINNERS,2,1
+277,Into the Breach,9INE,1,2
+278,Fluxo,9z Academy,2,0
+279,Monte,Spirit Academy,2,0
+280,SENSEI,VELOX,2,0
+281,MIBR Academy,Yawara,2,0
+282,OG,Permitta,2,0
+283,9 Pandas,Insilio,1,1
+284,Kubix,Kyoto,3,0
+285,9z Academy,JOGA DE TERNO,2,1
+286,Nemiga,Into the Breach,2,0
+287,SINNERS,9INE,2,0
+288,Aurora,9INE,2,1
+289,Sashi,Rebels,2,1
+290,AMKAL,NAVI Junior,1,2
+291,Vikings KR,JOGA DE TERNO,2,0
+292,SENSEI,Players,0,2
+293,Anonymo,Haspers,3,1
+294,paiN Academy,VELOX,1,2
+295,Johnny Speeds,HOTU,2,0
+296,ECSTATIC,9INE,0,2
+297,ARCRED,9INE,0,2
+298,Zero Tenacity,500,1,2
+299,GUN5,ECLOT,2,0
+300,SINNERS,9INE,2,0
+301,Aurora,9INE,2,1
+302,Sashi,Rebels,2,1
+303,AMKAL,NAVI Junior,1,2
+304,Vikings KR,JOGA DE TERNO,2,0
+305,SENSEI,Players,0,2
+306,Anonymo,Haspers,3,1
+307,paiN Academy,VELOX,1,2
+308,Johnny Speeds,HOTU,2,0
+309,ShindeN,MIBR Academy,2,1
+310,LaChampionsLiga,9z Academy,0,2
+311,ARCRED,RUSH B,2,1
+312,NITRO,Yawara,0,2
+313,HEROIC,The MongolZ,1,3
+314,SINNERS,ECSTATIC,2,1
+315,ECSTATIC,9INE,2,0
+316,OG,3DMAX,1,2
+317,9 Pandas,Gaimin Gladiators,2,0
+318,FLuffy Gangsters,1WIN,0,2
+319,SINNERS,ARCRED,2,1
+320,Spirit,G2,0,3
+321,Into the Breach,AMKAL,0,2
+322,TYLOO,Lynn Vision,3,0
+323,ATOX,Lynn Vision,0,2
+324,Vikings KR,Tropa do Taco,1,2
+325,ECSTATIC,9INE,2,0
+326,OG,3DMAX,1,2
+327,9 Pandas,Gaimin Gladiators,2,0
+328,FLuffy Gangsters,1WIN,0,2
+329,SINNERS,ARCRED,2,1
+330,Spirit,G2,0,3
+331,Into the Breach,AMKAL,0,2
+332,TYLOO,Lynn Vision,3,0
+333,ATOX,Lynn Vision,0,2
+334,Vikings KR,Tropa do Taco,1,2
+335,ShindeN,VELOX,2,1
+336,The MongolZ,3DMAX,2,0
+337,RUSH B,1WIN,2,1
+338,MIBR Academy,paiN Academy,2,0
+339,Zero Tenacity,Permitta,2,1
+340,OG,HEROIC,0,2
+341,ARCRED,FLuffy Gangsters,2,1
+342,Players,NITRO,2,0
+343,Sashi,Into the Breach,1,2
+344,Astralis,Spirit,1,2
+345,TYLOO,ATOX,2,0
+346,Permitta,Into the Breach,0,2
+347,G2,Vitality,2,1
+348,Lynn Vision,Bromo,2,1
+349,GameHunters,JOGA DE TERNO,2,1
+350,SENSEI,Yawara,2,0
+351,Sashi,AMKAL,,
+352,Nuclear TigeRES,RUSH B,0,2
+353,9z Academy,BESTIA Academy,2,0
+354,Sashi,Insilio,1,2
+355,RUSTEC,FLuffy Gangsters,1,2
+356,OG,Johnny Speeds,0,2
+357,LaChampionsLiga,BeBold,2,1
+358,Into the Breach,Insilio,1,2
+359,Gaimin Gladiators,HOTU,2,0
+360,FaZe,Spirit,0,2
+361,Sashi,Permitta,2,1
+362,Into the Breach,ECLOT,0,2
+363,MOUZ,Vitality,0,2
+364,JOGA DE TERNO,paiN Academy,2,0
+365,G2,Vitality,2,1
+366,Lynn Vision,Bromo,2,1
+367,GameHunters,JOGA DE TERNO,2,1
+368,SENSEI,Yawara,2,0
+369,Sashi,AMKAL,,
+370,Nuclear TigeRES,RUSH B,0,2
+371,9z Academy,BESTIA Academy,2,0
+372,Sashi,Insilio,1,2
+373,RUSTEC,FLuffy Gangsters,1,2
+374,ShindeN,Tropa do Taco,1,2
+375,500,GUN5,0,2
+376,Vikings KR,VELOX,2,0
+377,SINNERS,Rebels,2,1
+378,QUAZAR,1WIN,0,2
+379,G2,Spirit,2,0
+380,Players,GameHunters,1,2
+381,Spirit Academy,Rare Atom,2,0
+382,ARCRED,LEON,2,0
+383,Liquid,Vitality,1,2
+384,Rare Atom,CYBERSHOKE,2,1
+385,Astralis,MOUZ,2,0
+386,9 Pandas,9INE,2,1
+387,Natus Vincere,FaZe,1,2
+388,NITRO,9z Academy,2,1
+389,Vikings KR,VELOX,2,0
+390,SINNERS,Rebels,2,1
+391,QUAZAR,1WIN,0,2
+392,G2,Spirit,2,0
+393,Players,GameHunters,1,2
+394,Spirit Academy,Rare Atom,2,0
+395,ARCRED,LEON,2,0
+396,Liquid,Vitality,1,2
+397,Rare Atom,CYBERSHOKE,2,1
+398,Astralis,MOUZ,2,0
+399,9 Pandas,9INE,2,1
+400,SENSEI,BeBold,2,0
+401,MIBR Academy,BESTIA Academy,2,0
+402,Spirit Academy,NAVI Junior,0,2
+403,Into the Breach,Permitta,2,0
+404,LaChampionsLiga,Yawara,0,2
+405,Vitality,Spirit,0,2
+406,NAVI Junior,CYBERSHOKE,2,0
+407,9 Pandas,Johnny Speeds,2,0
+408,G2,Liquid,2,1
+409,OG,9INE,1,2
+410,MOUZ,FaZe,2,0
+411,Natus Vincere,Astralis,0,2
+412,paiN Academy,BeBold,2,1
+413,G2,Liquid,2,1
+414,OG,9INE,1,2
+415,MOUZ,FaZe,2,0
+416,Natus Vincere,Astralis,0,2
+417,paiN Academy,BeBold,2,1
+418,JOGA DE TERNO,BESTIA Academy,2,0
+419,Kyoto,devils.one,2,1
+420,MIBR Academy,Tropa do Taco,1,2
+421,Illuminar,Anonymo,1,2
+422,AMKAL,500,0,2
+423,LaChampionsLiga,VELOX,1,2
+424,Zero Tenacity,OG,0,2
+425,SINNERS,HOTU,1,2
+426,Wu-Tang,OG,1,2
+427,Sashi,GUN5,0,2
+428,Players,Yawara,2,0
+429,SENSEI,GameHunters,0,2
+430,Gostivar,Haspers,0,2
+431,ShindeN,9z Academy,2,0
+432,Kubix,Enterprise Gen,2,1
+433,Zero Tenacity,ECLOT,0,2
+434,Vikings KR,NITRO,2,0
+435,OG,500,1,2
+436,Zero Tenacity,Wu-Tang,2,1
+437,Rebels,Gaimin Gladiators,0,2
+438,ShindeN,9z Academy,2,0
+439,Kubix,Enterprise Gen,2,1
+440,Zero Tenacity,ECLOT,0,2
+441,Vikings KR,NITRO,2,0
+442,OG,500,1,2
+443,Zero Tenacity,Wu-Tang,2,1
+444,Rebels,Gaimin Gladiators,0,2
+445,ODDIK,Sharks,0,3
+446,LEON,PeeP,2,1
+447,SAW,B8,2,0
+448,1WIN,HOTU,2,1
+449,K27,RUSH B,0,2
+450,paiN,B8,1,2
+451,SAW,Monte,2,0
+452,Fluxo,Sharks,0,2
+453,3DMAX,BESTIA,2,1
+454,ODDIK,inSanitY,2,1
+455,GUN5,FLuffy Gangsters,0,2
+456,B8,Eternal Fire,2,0
+457,The MongolZ,Imperial,2,1
+458,HEROIC,fnatic,2,0
+459,Legacy,Monte,1,2
+460,Eternal Fire,Falcons,2,0
+461,BIG,OG,1,2
+462,The MongolZ,Imperial,2,1
+463,HEROIC,fnatic,2,0
+464,Legacy,Monte,1,2
+465,Eternal Fire,Falcons,2,0
+466,BIG,OG,1,2
+467,BESTIA,M80,2,1
+468,CYBERSHOKE,PeeP,0,2
+469,Monte,MIBR,2,0
+470,paiN,Legacy,1,0
+471,Imperial,Ninjas in Pyjamas,2,0
+472,B8,SAW,0,1
+473,HOTU,VP.Prodigy,2,1
+474,MIBR,Legacy,0,1
+475,Virtus.pro,OG,0,2
+476,paiN,Monte,1,0
+477,SAW,Falcons,1,0
+478,Eternal Fire,B8,0,1
+479,Cloud9,fnatic,1,2
+480,BIG,BESTIA,2,0
+481,FLuffy Gangsters,BakS,2,1
+482,Aurora,M80,0,2
+483,RUSH B,NewBALLS,2,0
+484,UNiTY,HOTU,1,1
+485,M80,BESTIA,0,2
+486,GUN5,Insilio,2,0
+487,BIG,Aurora,2,0
+488,ALTERNATE aTTaX,ECLOT,0,2
+489,FLuffy Gangsters,BakS,2,1
+490,Aurora,M80,0,2
+491,RUSH B,NewBALLS,2,0
+492,UNiTY,HOTU,1,1
+493,M80,BESTIA,0,2
+494,GUN5,Insilio,2,0
+495,BIG,Aurora,2,0
+496,ALTERNATE aTTaX,ECLOT,0,2
+497,HEROIC,Ninjas in Pyjamas,2,0
+498,QUAZAR,LEON,1,0
+499,Legacy,Imperial,1,2
+500,Heavenly Spirits,1WIN,1,0
+501,GUN5,Nuclear TigeRES,0,1
+502,ARCRED,K27,1,0
+503,Imperial,Ninjas in Pyjamas,1,2
+504,Gaimin Gladiators,ECLOT,2,0
+505,HEROIC,Legacy,2,1
+506,ALTERNATE aTTaX,Preasy,2,0
+507,The MongolZ,fnatic,2,0
+508,LEON,PeeP,1,0
+509,1WIN,VP.Prodigy,1,0
+510,Nuclear TigeRES,BakS,1,0
+511,Cloud9,9z,2,0
+512,K27,NewBALLS,1,0
+513,9z,fnatic,1,2
+514,GUN5,WW,1,1
+515,The MongolZ,Cloud9,2,0
+516,Insilio,Monte Gen,2,1
+517,LEON,PeeP,1,0
+518,1WIN,VP.Prodigy,1,0
+519,Nuclear TigeRES,BakS,1,0
+520,Cloud9,9z,2,0
+521,K27,NewBALLS,1,0
+522,9z,fnatic,1,2
+523,GUN5,WW,1,1
+524,The MongolZ,Cloud9,2,0
+525,Insilio,Monte Gen,2,1
+526,Anonymo,ECLOT,1,2
+527,3DMAX,OG,2,0
+528,CYBERSHOKE,QUAZAR,0,1
+529,HOTU,Madagaskar,0,1
+530,Haspers,Permitta,2,1
+531,GUN5,FLuffy Gangsters,1,0
+532,Falcons,Virtus.pro,0,2
+533,RUSH B,ARCRED,0,1
+534,Virtus.pro,OG,1,2
+535,Johnny Speeds,UNiTY,2,1
+536,Falcons,3DMAX,0,2
+537,9INE,HOTU,2,1
+538,M80,NRG,3,1
+539,paiN,MIBR,3,1
+540,Sangal,Nemiga,3,0
+541,ENCE,HEROIC,3,1
+542,FlyQuest,Mindfreak,3,0
+543,Legacy,NRG,1,2
+544,MIBR,BESTIA,2,1
+545,paiN,MIBR,3,1
+546,Sangal,Nemiga,3,0
+547,ENCE,HEROIC,3,1
+548,FlyQuest,Mindfreak,3,0
+549,Legacy,NRG,1,2
+550,MIBR,BESTIA,2,1
+551,UNPAID,Nemiga,1,2
+552,B8,HEROIC,0,2
+553,Nemiga,3DMAX,2,1
+554,The MongolZ,ENCE,1,2
+555,Sangal,UNPAID,1,2
+556,Nemiga,fnatic,2,0
+557,Mindfreak,Housebets,2,0
+558,NRG,Party Astronauts,2,0
+559,BESTIA,RED Canids,2,0
+560,3DMAX,SAW,2,1
+561,ENCE,9z,2,0
+562,UNPAID,PARIVISION,2,0
+563,B8,JANO,2,0
+564,Bromo,IHC,2,0
+565,Nemiga,Fluxo,2,1
+566,FlyQuest,Mindfreak,2,0
+567,The Art of War,Housebets,0,2
+568,Legacy,M80,1,2
+569,NRG,Wildcard,2,0
+570,Nouns,Party Astronauts,1,2
+571,paiN,MIBR,2,1
+572,RED Canids,Imperial,2,1
+573,inSanitY,BESTIA,0,2
+574,ENCE,9z,2,0
+575,UNPAID,PARIVISION,2,0
+576,B8,JANO,2,0
+577,Bromo,IHC,2,0
+578,Nemiga,Fluxo,2,1
+579,FlyQuest,Mindfreak,2,0
+580,The Art of War,Housebets,0,2
+581,Legacy,M80,1,2
+582,NRG,Wildcard,2,0
+583,Nouns,Party Astronauts,1,2
+584,paiN,MIBR,2,1
+585,RED Canids,Imperial,2,1
+586,Nemiga,Sangal,1,2
+587,SAW,9 Pandas,2,1
+588,3DMAX,Sashi,2,1
+589,Rebels,9z,0,2
+590,PARIVISION,fnatic,0,2
+591,FAVBET,Preasy,1,2
+592,Solid,UNPAID,0,2
+593,HEROIC,ENCE,2,0
+594,Lynn Vision,The Huns,2,1
+595,Fluxo,Sangal,0,2
+596,9z,ENCE,0,1
+597,ECLOT,Permitta,1,2
+598,HEROIC,Rebels,1,0
+599,Insilio,9INE,1,2
+600,Mindfreak,The Art of War,2,1
+601,Housebets,KZG,2,0
+602,Aurora,Nemiga,0,2
+603,Wildcard,BOSS,2,0
+604,Party Astronauts,E-Xolos LAZER,2,1
+605,Legacy,Nouns,2,1
+606,M80,NRG,2,1
+607,Imperial,Sharks,2,0
+608,MIBR,RED Canids,2,1
+609,paiN,inSanitY,2,1
+610,BESTIA,ODDIK,2,0
+611,Fluxo,Sangal,0,2
+612,9z,ENCE,0,1
+613,ECLOT,Permitta,1,2
+614,HEROIC,Rebels,1,0
+615,Insilio,9INE,1,2
+616,Mindfreak,The Art of War,2,1
+617,Housebets,KZG,2,0
+618,Aurora,Nemiga,0,2
+619,Wildcard,BOSS,2,0
+620,Party Astronauts,E-Xolos LAZER,2,1
+621,Legacy,Nouns,2,1
+622,M80,NRG,2,1
+623,Sashi,PARIVISION,2,1
+624,fnatic,UNPAID,2,0
+625,SAW,Sangal,1,2
+626,Nemiga,3DMAX,2,0
+627,TSM,9 Pandas,1,2
+628,JANO,Ninjas in Pyjamas,2,1
+629,Solid,PARIVISION,0,2
+630,The MongolZ,B8,2,0
+631,Lynn Vision,ATOX,1,2
+632,Ninjas in Pyjamas,B8,0,1
+633,The Huns,SGGT,2,1
+634,IHC,GR,2,1
+635,TYLOO,Bromo,2,0
+636,Sangal,Nemiga,2,1
+637,Johnny Speeds,WW,2,0
+638,The MongolZ,JANO,1,0
+639,CYBERSHOKE,Monte Gen,0,2
+640,Fluxo,Aurora,2,1
+641,BOSS,FLUFFY AIMERS,2,0
+642,E-Xolos LAZER,timbermen,2,0
+643,Nouns,Wildcard,2,1
+644,Sharks,Case,,
+645,BESTIA,RED Canids,0,2
+646,Imperial,inSanitY,0,2
+647,ODDIK,KRÜ,2,0
+648,Solid,PARIVISION,0,2
+649,The MongolZ,B8,2,0
+650,Lynn Vision,ATOX,1,2
+651,Ninjas in Pyjamas,B8,0,1
+652,The Huns,SGGT,2,1
+653,IHC,GR,2,1
+654,TYLOO,Bromo,2,0
+655,Sangal,Nemiga,2,1
+656,Johnny Speeds,WW,2,0
+657,The MongolZ,JANO,1,0
+658,CYBERSHOKE,Monte Gen,0,2
+659,Fluxo,Aurora,2,1
+660,Aurora,PARIVISION,0,2
+661,3DMAX,TSM,2,1
+662,Sangal,Sashi,2,0
+663,Zero Tenacity,9 Pandas,1,2
+664,devils.one,Enterprise Gen,2,1
+665,IHC,ATOX,0,2
+666,The Huns,Bromo,1,2
+667,GR,-72c,2,1
+668,SGGT,Gods Reign,2,1
+669,ALTERNATE aTTaX,HOTU,0,2
+670,GUN5,Gaimin Gladiators,0,2
+671,Sangal,Sashi,2,0
+672,Zero Tenacity,9 Pandas,1,2
+673,devils.one,Enterprise Gen,2,1
+674,IHC,ATOX,0,2
+675,The Huns,Bromo,1,2
+676,GR,-72c,2,1
+677,SGGT,Gods Reign,2,1
+678,ALTERNATE aTTaX,HOTU,0,2
+679,GUN5,Gaimin Gladiators,0,2
+680,Back2TheGame,Permitta,1,2
+681,devils.one,Kyoto,0,2
+682,UNiTY,500,1,2
+683,MOUZ,Natus Vincere,1,3
+684,Spirit Academy,FAVBET,2,1
+685,FAVBET,Aurora,2,1
+686,Spirit Academy,SINNERS,2,1
+687,FURIA,MOUZ,0,2
+688,GUN5,SINNERS,0,2
+689,HEROIC,Natus Vincere,1,2
+690,Spirit Academy,3DMAX,2,1
+691,Aurora,Metizport,2,0
+692,Passion UA,FAVBET,1,2
+693,GUN5,SINNERS,0,2
+694,HEROIC,Natus Vincere,1,2
+695,Spirit Academy,3DMAX,2,1
+696,Aurora,Metizport,2,0
+697,Passion UA,FAVBET,1,2
+698,Vitality,MOUZ,1,2
+699,SINNERS,Monte,2,0
+700,GamerLegion,GUN5,0,2
+701,Virtus.pro,Natus Vincere,0,2
+702,BetBoom,FAVBET,1,2
+703,Cloud9,Passion UA,1,2
+704,3DMAX,CYBERSHOKE,2,0
+705,OG,Spirit Academy,1,2
+706,GUN5,Permitta,0,2
+707,CYBERSHOKE,Gaimin Gladiators,0,2
+708,fnatic,Metizport,0,2
+709,MANTRA,Rooster,0,1
+710,Rooster,MANTRA,0,1
+711,Insilio,FAVBET,2,1
+712,Aurora,Zero Tenacity,2,1
+713,Take Flyte,LAG,0,1
+714,BOSS,M80,0,1
+715,Limitless,timbermen,0,1
+716,E-Xolos LAZER,Legacy,0,1
+717,Wildcard,Party Astronauts,,
+718,Mythic,Nouns,0,1
+719,Revenge Nation,FLUFFY AIMERS,1,0
+720,Nouns,Mythic,1,0
+721,Legacy,E-Xolos LAZER,1,0
+722,LAG,Take Flyte,0,1
+723,Party Astronauts,Wildcard,,
+724,timbermen,Limitless,0,1
+725,FLUFFY AIMERS,Revenge Nation,0,1
+726,RED Canids,MIBR,0,1
+727,KRÜ,BESTIA,0,1
+728,Solid,Imperial,0,1
+729,Case,Hype,1,0
+730,paiN,inSanitY,,
+731,ODDIK,Dusty Roots,1,0
+732,Dusty Roots,ODDIK,0,1
+733,BESTIA,KRÜ,1,0
+734,Hype,Case,1,0
+735,Imperial,Solid,1,0
+736,MIBR,RED Canids,1,0
+737,inSanitY,paiN,,
+738,Aurora,Zero Tenacity,2,1
+739,Take Flyte,LAG,0,1
+740,BOSS,M80,0,1
+741,Limitless,timbermen,0,1
+742,E-Xolos LAZER,Legacy,0,1
+743,Wildcard,Party Astronauts,,
+744,Mythic,Nouns,0,1
+745,Revenge Nation,FLUFFY AIMERS,1,0
+746,Nouns,Mythic,1,0
+747,Legacy,E-Xolos LAZER,1,0
+748,LAG,Take Flyte,0,1
+749,MOUZ,FaZe,2,1
+750,Virtus.pro,The MongolZ,2,0
+751,Natus Vincere,FURIA,0,2
+752,Vitality,HEROIC,0,2
+753,Astralis,Virtus.pro,0,2
+754,The MongolZ,Eternal Fire,2,1
+755,Bromo,Kenla Gaming,,
+756,TYLOO,Lynn Vision,,
+757,Dewa United,Gods Reign,1,0
+758,Noobs But Diligent,NomadS,1,0
+759,SGGT,GR,0,1
+760,-72c,IHC,0,1
+761,Kenla Gaming,Bromo,,
+762,Gods Reign,Dewa United,1,0
+763,NomadS,Noobs But Diligent,0,1
+764,IHC,-72c,1,0
+765,GR,SGGT,1,0
+766,Lynn Vision,TYLOO,,
+767,Rooster,KZG,0,1
+768,Arcade,DXA,0,1
+769,The Art of War,MANTRA,1,0
+770,KZG,Rooster,0,1
+771,MANTRA,The Art of War,0,1
+772,DXA,Arcade,0,1
+773,HOTU,500,0,2
+774,Players,Sharks,,
+775,Sharks,Players,,
+776,Fluxo,Galorys,,
+777,Galorys,Fluxo,,
+778,Limitless,Mythic,1,0
+779,Take Flyte,E-Xolos LAZER,0,1
+780,Revenge Nation,Party Astronauts,0,1
+781,FLUFFY AIMERS,timbermen,0,1
+782,NRG,Nouns,0,1
+783,E-Xolos LAZER,Take Flyte,1,0
+784,M80,Legacy,0,1
+785,timbermen,FLUFFY AIMERS,0,1
+786,Party Astronauts,Revenge Nation,1,0
+787,Mythic,Limitless,0,1
+788,Nouns,NRG,1,0
+789,Hype,Solid,1,0
+790,inSanitY,Fluxo,,
+791,BESTIA,Players,,
+792,Imperial,paiN,1,0
+793,Dusty Roots,RED Canids,0,1
+794,Sharks,Case,1,0
+795,Wildcard,M80,,
+796,Solid,Hype,1,0
+797,KRÜ,MIBR,0,1
+798,Fluxo,inSanitY,,
+799,Players,BESTIA,,
+800,RED Canids,Dusty Roots,1,0
+801,Case,Sharks,0,1
+802,M80,Wildcard,,
+803,MIBR,RED Canids,1,0
+804,inSanitY,paiN,,
+805,MOUZ,FaZe,2,1
+806,Virtus.pro,The MongolZ,2,0
+807,Natus Vincere,FURIA,0,2
+808,Vitality,HEROIC,0,2
+809,Astralis,Virtus.pro,0,2
+810,The MongolZ,Eternal Fire,2,1
+811,The Art of War,MANTRA,1,0
+812,KZG,Rooster,0,1
+813,MANTRA,The Art of War,0,1
+814,DXA,Arcade,0,1
+815,HOTU,500,0,2
+816,Players,Sharks,,
+817,Sharks,Players,,
+818,Fluxo,Galorys,,
+819,Galorys,Fluxo,,
+820,Limitless,Mythic,1,0
+821,Take Flyte,E-Xolos LAZER,0,1
+822,Dusty Roots,RED Canids,0,1
+823,Sharks,Case,1,0
+824,Wildcard,M80,,
+825,Solid,Hype,1,0
+826,KRÜ,MIBR,0,1
+827,paiN,Imperial,1,0
+828,Fluxo,inSanitY,,
+829,Players,BESTIA,,
+830,RED Canids,Dusty Roots,1,0
+831,Case,Sharks,0,1
+832,MOUZ,Complexity,2,0
+833,Gostivar,Haspers,2,1
+834,Solid,RED Canids,1,0
+835,Liquid,FaZe,0,2
+836,paiN,MIBR,1,0
+837,MIBR,paiN,0,1
+838,RED Canids,Solid,0,1
+839,Astralis,HEROIC,0,2
+840,Eternal Fire,G2,2,0
+841,Apogee,Enterprise Gen,1,2
+842,TSM,FAVBET,1,2
+843,Vitality,The MongolZ,2,0
+844,9z,Virtus.pro,1,2
+845,Lynn Vision,SGGT,0,1
+846,GR,TYLOO,0,1
+847,Gods Reign,Kenla Gaming,1,0
+848,-72c,Noobs But Diligent,,
+849,Dewa United,IHC,0,1
+850,CYBERSHOKE,ECSTATIC,2,0
+851,Noobs But Diligent,-72c,,
+852,Kenla Gaming,Gods Reign,0,1
+853,IHC,Dewa United,1,0
+854,SGGT,Lynn Vision,1,0
+855,TYLOO,GR,1,0
+856,ALTERNATE aTTaX,Monte Gen,2,0
+857,ALTERNATE aTTaX,Metizport,0,2
+858,ECLOT,WW,2,0
+859,Mindfreak,FlyQuest,,
+860,Housebets,Vantage,,
+861,Vantage,Housebets,,
+862,FlyQuest,Mindfreak,,
+863,FLUFFY AIMERS,BOSS,0,1
+864,Revenge Nation,E-Xolos LAZER,1,0
+865,BOSS,FLUFFY AIMERS,0,1
+866,E-Xolos LAZER,Revenge Nation,0,1
+867,BESTIA,RED Canids,1,0
+868,Natus Vincere,Liquid,2,1
+869,RED Canids,BESTIA,0,1
+870,Imperial,Complexity,1,2
+871,TSM,FAVBET,1,2
+872,Vitality,The MongolZ,2,0
+873,9z,Virtus.pro,1,2
+874,Lynn Vision,SGGT,0,1
+875,GR,TYLOO,0,1
+876,Gods Reign,Kenla Gaming,1,0
+877,-72c,Noobs But Diligent,,
+878,Dewa United,IHC,0,1
+879,CYBERSHOKE,ECSTATIC,2,0
+880,Noobs But Diligent,-72c,,
+881,Kenla Gaming,Gods Reign,0,1
+882,UNiTY,ECLOT,2,0
+883,FaZe,paiN,2,1
+884,FURIA,MOUZ,2,1
+885,Eternal Fire,Astralis,0,1
+886,Virtus.pro,The MongolZ,0,1
+887,G2,HEROIC,0,1
+888,Vitality,9z,1,0
+889,Anonymo,error404,,
+890,GUN5,ALTERNATE aTTaX,2,1
+891,Natus Vincere,Imperial,1,0
+892,Liquid,Complexity,1,0
+893,FaZe,FURIA,0,1
+894,MOUZ,paiN,1,0
+895,SGGT,Gods Reign,1,0
+896,Zero Tenacity,ECSTATIC,2,0
+897,Gods Reign,SGGT,0,1
+898,Johnny Speeds,Preasy,2,1
+899,Monte,Metizport,2,1
+900,UNiTY,9INE,2,1
+901,MIBR,Imperial,1,0
+902,Imperial,MIBR,1,0
+903,FlyQuest,BIG,2,1
+904,BESTIA,RED Canids,1,0
+905,Natus Vincere,Liquid,2,1
+906,RED Canids,BESTIA,0,1
+907,Imperial,Complexity,1,2
+908,UNiTY,ECLOT,2,0
+909,FaZe,paiN,2,1
+910,FURIA,MOUZ,2,1
+911,Eternal Fire,Astralis,0,1
+912,Passion UA,GamerLegion,1,2
+913,SAW,BIG,1,2
+914,TSM,G2 Ares,2,0
+915,FlyQuest,Wildcard,2,1
+916,9 Pandas,GamerLegion,1,2
+917,FAVBET,DRILLAS,2,0
+918,3DMAX,Passion UA,1,2
+919,CYBERSHOKE,HOTU,2,1
+920,FLUFFY AIMERS,BOSS,0,2
+921,Legacy,FLUFFY AIMERS,0,2
+922,UNiTY,9INE,2,1
+923,MIBR,Imperial,1,0
+924,Imperial,MIBR,1,0
+925,FlyQuest,BIG,2,1
+926,Passion UA,GamerLegion,1,2
+927,SAW,BIG,1,2
+928,TSM,G2 Ares,2,0
+929,FlyQuest,Wildcard,2,1
+930,SAW,BetBoom,2,1
+931,Party Astronauts,BOSS,0,2
+932,B8,GamerLegion,0,2
+933,M80,Wildcard,1,2
+934,ALTERNATE aTTaX,Passion UA,1,2
+935,BESTIA,RED Canids,2,3
+936,Natus Vincere,Vitality,1,2
+937,ECSTATIC,9 Pandas,0,2
+938,BetBoom,Rooster,2,0
+939,Zero Tenacity,Spirit Academy,0,2
+940,Permitta,Passion UA,1,2
+941,Monte,DRILLAS,2,0
+942,PARIVISION,3DMAX,1,2
+943,GUN5,FAVBET,2,0
+944,LAG,Legacy,0,2
+945,ODDIK,Wildcard,0,2
+946,Fluxo,MIBR,1,0
+947,inSanitY,Solid,0,1
+948,MIBR,Fluxo,1,0
+949,timbermen,FLUFFY AIMERS,1,2
+950,BIG,M80,1,0
+951,Solid,inSanitY,1,0
+952,BESTIA,RED Canids,2,3
+953,Natus Vincere,Vitality,1,2
+954,ECSTATIC,9 Pandas,0,2
+955,BetBoom,Rooster,2,0
+956,Zero Tenacity,Spirit Academy,0,2
+957,Permitta,Passion UA,1,2
+958,Monte,DRILLAS,2,0
+959,PARIVISION,3DMAX,1,2
+960,GUN5,FAVBET,2,0
+961,LAG,Legacy,0,2
+962,ODDIK,Wildcard,0,2
+963,FlyQuest,SAW,1,0
+964,Wildcard,M80,0,1
+965,GamerLegion,DRILLAS,2,1
+966,BIG,ODDIK,1,0
+967,CYBERSHOKE,Metizport,0,2
+968,paiN,BESTIA,0,2
+969,SAW,Rooster,1,0
+970,9 Pandas,DMS,2,0
+971,BetBoom,FlyQuest,0,1
+972,TSM,ECSTATIC,1,2
+973,Aurora,Passion UA,0,2
+974,HOTU,RUBY,2,0
+975,Ninjas in Pyjamas,ECSTATIC,0,2
+976,Permitta,G2 Ares,0,2
+977,Revenge Nation,LAG,1,0
+978,timbermen,Party Astronauts,0,1
+979,Take Flyte,Mythic,1,0
+980,Limitless,Legacy,0,1
+981,Legacy,Limitless,1,0
+982,Party Astronauts,timbermen,0,1
+983,Mythic,Take Flyte,0,1
+984,BOSS,NRG,2,1
+985,LAG,Revenge Nation,0,1
+986,MIBR,inSanitY,1,0
+987,Solid,Galorys,,
+988,Galorys,Solid,,
+989,Party Astronauts,Nouns,2,1
+990,inSanitY,MIBR,1,0
+991,CYBERSHOKE,Metizport,0,2
+992,paiN,BESTIA,0,2
+993,SAW,Rooster,1,0
+994,9 Pandas,DMS,2,0
+995,BetBoom,FlyQuest,0,1
+996,TSM,ECSTATIC,1,2
+997,Aurora,Passion UA,0,2
+998,HOTU,RUBY,2,0
+999,Ninjas in Pyjamas,ECSTATIC,0,2
+1000,Permitta,G2 Ares,0,2
+1001,Revenge Nation,LAG,1,0
+1002,SINNERS,Permitta,0,2
+1003,TSM,ALTERNATE aTTaX,1,2
+1004,3DMAX,Rhyno,2,1
+1005,Monte,Spirit Academy,1,2
+1006,B8,ALTERNATE aTTaX,2,1
+1007,GUN5,Preasy,2,0
+1008,Zero Tenacity,Metizport,2,1
+1009,PARIVISION,Spirit Academy,2,1
+1010,GUN5,Passion UA,0,2
+1011,Insilio,WW,1,2
+1012,Nouns,Aether,2,0
+1013,KRÜ,Dusty Roots,1,0
+1014,Players,MIBR,,
+1015,RED Canids,Galorys,,
+1016,Solid,Sharks,0,1
+1017,paiN,Fluxo,0,1
+1018,Imperial,Hype,1,0
+1019,Legacy,Lore,2,0
+1020,Hype,Imperial,0,1
+1021,Galorys,RED Canids,,
+1022,MIBR,Players,,
+1023,Sharks,Solid,0,1
+1024,Dusty Roots,KRÜ,1,0
+1025,Fluxo,paiN,1,0
+1026,SINNERS,Permitta,0,2
+1027,TSM,ALTERNATE aTTaX,1,2
+1028,3DMAX,Rhyno,2,1
+1029,Monte,Spirit Academy,1,2
+1030,B8,ALTERNATE aTTaX,2,1
+1031,GUN5,Preasy,2,0
+1032,Zero Tenacity,Metizport,2,1
+1033,PARIVISION,Spirit Academy,2,1
+1034,GUN5,Passion UA,0,2
+1035,Insilio,WW,1,2
+1036,paiN,RED Canids,1,0
+1037,Case,BESTIA,0,1
+1038,RED Canids,paiN,1,0
+1039,BESTIA,Case,1,0
+1040,Betera,Apogee,0,2
+1041,UNiTY,FAVBET,2,1
+1042,ECSTATIC,RUBY,2,0
+1043,CYBERSHOKE,500,0,2
+1044,FAVBET,HOTU,2,0
+1045,The Huns,SGGT,0,1
+1046,Gods Reign,Clutch,1,0
+1047,IHC,GR,1,0
+1048,The QUBE,Lynn Vision,0,1
+1049,Clutch,Gods Reign,0,1
+1050,TYLOO,Dewa United,1,0
+1051,Dewa United,TYLOO,0,1
+1052,GR,IHC,0,1
+1053,SGGT,The Huns,1,0
+1054,Lynn Vision,The QUBE,1,0
+1055,CYBERSHOKE,G2 Ares,2,0
+1056,Vantage,Arcade,,
+1057,KZG,Mindfreak,0,1
+1058,DXA,The Art of War,0,1
+1059,Mindfreak,KZG,1,0
+1060,Arcade,Vantage,,
+1061,The Art of War,DXA,1,0
+1062,Gaimin Gladiators,HOTU,0,2
+1063,Permitta,DRILLAS,1,2
+1064,Party Astronauts,M80,0,1
+1065,LAG,Mythic,0,1
+1066,BOSS,Wildcard,0,1
+1067,NRG,Legacy,0,1
+1068,Take Flyte,Limitless,0,1
+1069,M80,Party Astronauts,0,1
+1070,Mythic,LAG,1,0
+1071,Limitless,Take Flyte,0,1
+1072,Legacy,NRG,1,0
+1073,Nouns,Revenge Nation,1,0
+1074,FLUFFY AIMERS,Revenge Nation,2,1
+1075,Wildcard,BOSS,1,0
+1076,MIBR,Case,1,0
+1077,Nouns,M80,0,1
+1078,Galorys,KRÜ,0,1
+1079,Case,MIBR,1,0
+1080,Dusty Roots,Players,,
+1081,inSanitY,RED Canids,,
+1082,Sharks,Imperial,0,1
+1083,Hype,paiN,0,1
+1084,M80,Nouns,0,1
+1085,KRÜ,Galorys,0,1
+1086,Players,Dusty Roots,,
+1087,RED Canids,inSanitY,,
+1088,NRG,Final Form,,
+1089,Imperial,Sharks,0,1
+1090,paiN,Hype,1,0
+1091,BESTIA,Solid,1,0
+1092,Revenge Nation,Nouns,0,1
+1093,Fluxo,paiN,1,0
+1094,paiN,RED Canids,1,0
+1095,Case,BESTIA,0,1
+1096,RED Canids,paiN,1,0
+1097,BESTIA,Case,1,0
+1098,Betera,Apogee,0,2
+1099,UNiTY,FAVBET,2,1
+1100,ECSTATIC,RUBY,2,0
+1101,CYBERSHOKE,500,0,2
+1102,KZG,Mindfreak,0,1
+1103,DXA,The Art of War,0,1
+1104,Mindfreak,KZG,1,0
+1105,Arcade,Vantage,,
+1106,The Art of War,DXA,1,0
+1107,Gaimin Gladiators,HOTU,0,2
+1108,Permitta,DRILLAS,1,2
+1109,Party Astronauts,M80,0,1
+1110,LAG,Mythic,0,1
+1111,BOSS,Wildcard,0,1
+1112,NRG,Legacy,0,1
+1113,Take Flyte,Limitless,0,1
+1114,Sharks,Imperial,0,1
+1115,Hype,paiN,0,1
+1116,M80,Nouns,0,1
+1117,KRÜ,Galorys,0,1
+1118,Players,Dusty Roots,,
+1119,RED Canids,inSanitY,,
+1120,NRG,Final Form,,
+1121,Imperial,Sharks,0,1
+1122,paiN,Hype,1,0
+1123,BESTIA,Solid,1,0
+1124,Revenge Nation,Nouns,0,1
+1125,Solid,BESTIA,0,1
+1126,Illuminar,Kyoto,2,0
+1127,MIBR,Sharks,0,1
+1128,Sharks,MIBR,1,0
+1129,Betera,GUN5,1,2
+1130,Apogee,Rebels,2,1
+1131,Metizport,G2 Ares,2,1
+1132,Kubix,ECLOT,,
+1133,ALTERNATE aTTaX,CPH Wolves,2,1
+1134,Passion UA,RUBY,2,0
+1135,CYBERSHOKE,Rhyno,0,2
+1136,IHC,Lynn Vision,0,1
+1137,GR,The QUBE,1,0
+1138,Gods Reign,The Huns,0,1
+1139,TYLOO,NomadS,1,0
+1140,The QUBE,GR,0,1
+1141,The Huns,Gods Reign,1,0
+1142,NomadS,TYLOO,0,1
+1143,Lynn Vision,IHC,1,0
+1144,KZG,Housebets,1,0
+1145,ALTERNATE aTTaX,9INE,0,2
+1146,Zero Tenacity,FAVBET,2,1
+1147,Housebets,KZG,1,0
+1148,ECSTATIC,Monte Gen,2,0
+1149,Johnny Speeds,Permitta,0,2
+1150,ALTERNATE aTTaX,HOTU,2,0
+1151,BOSS,Mythic,2,0
+1152,Revenge Nation,M80,0,1
+1153,Fluxo,Imperial,1,0
+1154,M80,Revenge Nation,1,0
+1155,timbermen,E-Xolos LAZER,2,1
+1156,Imperial,Fluxo,0,1
+1157,IHC,Lynn Vision,0,1
+1158,GR,The QUBE,1,0
+1159,Gods Reign,The Huns,0,1
+1160,TYLOO,NomadS,1,0
+1161,The QUBE,GR,0,1
+1162,The Huns,Gods Reign,1,0
+1163,NomadS,TYLOO,0,1
+1164,Lynn Vision,IHC,1,0
+1165,KZG,Housebets,1,0
+1166,ALTERNATE aTTaX,9INE,0,2
+1167,Zero Tenacity,FAVBET,2,1
+1168,Housebets,KZG,1,0
+1169,GOT,Apogee,0,2
+1170,GUN5,Permitta,2,1
+1171,ALTERNATE aTTaX,DRILLAS,1,2
+1172,Sampi NEXT,error404,1,2
+1173,Monte,ECSTATIC,2,0
+1174,CYBERSHOKE,Permitta,1,2
+1175,NomadS,ATOX,1,0
+1176,TYLOO,-72c,1,0
+1177,ATOX,NomadS,0,1
+1178,-72c,TYLOO,0,1
+1179,TSM,DRILLAS,2,0
+1180,Passion UA,ECSTATIC,2,1
+1181,Rooster,FlyQuest,0,1
+1182,FlyQuest,Rooster,1,0
+1183,ECLOT,Monte Gen,2,0
+1184,CYBERSHOKE,Spirit Academy,1,2
+1185,Party Astronauts,undefined,2,0
+1186,LAG,Akimbo,2,1
+1187,GUN5,Permitta,2,1
+1188,ALTERNATE aTTaX,DRILLAS,1,2
+1189,Sampi NEXT,error404,1,2
+1190,Monte,ECSTATIC,2,0
+1191,CYBERSHOKE,Permitta,1,2
+1192,NomadS,ATOX,1,0
+1193,TYLOO,-72c,1,0
+1194,ATOX,NomadS,0,1
+1195,-72c,TYLOO,0,1
+1196,TSM,DRILLAS,2,0
+1197,Passion UA,ECSTATIC,2,1
+1198,Rooster,FlyQuest,0,1
+1199,Gostivar,Enterprise Gen,1,0
+1200,Back2TheGame,UNiTY,0,1
+1201,Monte Gen,WW,2,0
+1202,G2,Natus Vincere,3,1
+1203,3DMAX,SAW,1,2
+1204,Into the Breach,CPH Wolves,1,2
+1205,devils.one,Permitta,1,0
+1206,FAVBET,Rhyno,0,2
+1207,The Punishers,Exceed,3,1
+1208,Monarch Realm,Nixuh,2,0
+1209,Take Flyte,M80,0,1
+1210,M80,Take Flyte,1,0
+1211,Into the Breach,CPH Wolves,1,2
+1212,devils.one,Permitta,1,0
+1213,FAVBET,Rhyno,0,2
+1214,The Punishers,Exceed,3,1
+1215,Monarch Realm,Nixuh,2,0
+1216,Take Flyte,M80,0,1
+1217,M80,Take Flyte,1,0
+1218,Natus Vincere,FaZe,2,1
+1219,ECSTATIC,DMS,1,2
+1220,GamerLegion,BetBoom,0,2
+1221,9z,SAW,0,2
+1222,B8,3DMAX,2,1
+1223,DRILLAS,Spirit Academy,0,2
+1224,Vitality,G2,1,2
+1225,Aurora,GamerLegion,1,2
+1226,SAW,Nemiga,2,1
+1227,9z,Apogee,2,1
+1228,Permitta,Monte Gen,2,0
+1229,Nixuh,Exceed,0,2
+1230,BetBoom,3DMAX,2,1
+1231,The Punishers,Monarch Realm,2,0
+1232,CYBERSHOKE,FAVBET,2,1
+1233,Sangal,BetBoom,0,2
+1234,Apogee,OG,2,1
+1235,SAW,B8,0,2
+1236,ALTERNATE aTTaX,Into the Breach,2,0
+1237,FaZe,Liquid,2,0
+1238,Anonymo,Haspers,0,1
+1239,3DMAX,9z,2,0
+1240,Nemiga,Alliance,2,1
+1241,Exceed,Kipi,2,1
+1242,Passion UA,CPH Wolves,2,0
+1243,ECSTATIC,Aurora,1,2
+1244,B8,OG,2,1
+1245,SAW,Apogee,2,0
+1246,3DMAX,Nemiga,2,0
+1247,Alliance,9z,0,2
+1248,Adaptive Gaming,Nixuh,1,2
+1249,TALON,Rhyno,1,2
+1250,B8,GamerLegion,1,2
+1251,Monarch Realm,Synthesis,2,1
+1252,The Art of War,FlyQuest,0,1
+1253,FlyQuest,The Art of War,1,0
+1254,Endpoint,WW,1,2
+1255,CYBERSHOKE,3DMAX,1,2
+1256,The Punishers,Kitsune,2,0
+1257,timbermen,M80,0,1
+1258,M80,timbermen,1,0
+1259,Sharks,BESTIA,1,2
+1260,Sangal,BetBoom,0,2
+1261,Apogee,OG,2,1
+1262,SAW,B8,0,2
+1263,ALTERNATE aTTaX,Into the Breach,2,0
+1264,FaZe,Liquid,2,0
+1265,Anonymo,Haspers,0,1
+1266,3DMAX,9z,2,0
+1267,Nemiga,Alliance,2,1
+1268,Exceed,Kipi,2,1
+1269,Endpoint,WW,1,2
+1270,CYBERSHOKE,3DMAX,1,2
+1271,The Punishers,Kitsune,2,0
+1272,timbermen,M80,0,1
+1273,M80,timbermen,1,0
+1274,Sharks,BESTIA,1,2
+1275,Vitality,Liquid,2,0
+1276,MIBR,BESTIA,0,2
+1277,ECSTATIC,Into the Breach,2,0
+1278,GamerLegion,CPH Wolves,2,1
+1279,Alliance,Astralis Talent,2,0
+1280,Fire Flux,B8,0,2
+1281,Nemiga,GUN5,1,1
+1282,ARCRED,Apogee,0,2
+1283,EYEBALLERS,GUN5,0,1
+1284,Lazer Cats,Astralis Talent,0,1
+1285,B8,Illuminar,1,0
+1286,CYBERSHOKE,DMS,,
+1287,ARCRED,500,1,0
+1288,Apogee,Gaimin Gladiators,1,0
+1289,RUSTEC,Nemiga,0,1
+1290,Gucci Gang,Fire Flux,,
+1291,NAVI Junior,Alliance,0,1
+1292,3DMAX,Aurora,2,0
+1293,BetBoom,Monte Gen,2,0
+1294,Sharks,Imperial,1,2
+1295,Natus Vincere,G2,2,0
+1296,FAVBET,DRILLAS,0,2
+1297,Sangal,Passion UA,2,1
+1298,Aurora,Into the Breach,2,1
+1299,Falcons,FaZe,1,2
+1300,Housebets,FlyQuest,0,1
+1301,FlyQuest,Housebets,1,0
+1302,Monte Gen,Spirit Academy,0,2
+1303,B8,Insilio,2,0
+1304,3DMAX,Monte,2,0
+1305,LAG,Nouns,0,1
+1306,E-Xolos LAZER,Party Astronauts,0,1
+1307,NRG,M80,1,0
+1308,Take Flyte,Legacy,0,1
+1309,Limitless,BOSS,0,1
+1310,BOSS,Limitless,0,1
+1311,Nouns,LAG,1,0
+1312,M80,NRG,0,1
+1313,Legacy,Take Flyte,1,0
+1314,Party Astronauts,E-Xolos LAZER,1,0
+1315,Hype,Sharks,1,0
+1316,paiN,ODDIK,1,0
+1317,Players,Galorys,,
+1318,KRÜ,inSanitY,,
+1319,RED Canids,Fluxo,0,1
+1320,Solid,MIBR,0,1
+1321,Imperial,BESTIA,0,1
+1322,ODDIK,paiN,0,1
+1323,Sharks,Hype,1,0
+1324,Fluxo,RED Canids,1,0
+1325,inSanitY,KRÜ,,
+1326,MIBR,Solid,0,1
+1327,Galorys,Players,,
+1328,BESTIA,Imperial,0,1
+1329,NAVI Junior,Alliance,0,1
+1330,Astralis,Spirit,1,2
+1331,3DMAX,Aurora,2,0
+1332,BetBoom,Monte Gen,2,0
+1333,Sharks,Imperial,1,2
+1334,Natus Vincere,G2,2,0
+1335,FAVBET,DRILLAS,0,2
+1336,Sangal,Passion UA,2,1
+1337,Aurora,Into the Breach,2,1
+1338,Falcons,FaZe,1,2
+1339,Housebets,FlyQuest,0,1
+1340,FlyQuest,Housebets,1,0
+1341,Hype,Sharks,1,0
+1342,paiN,ODDIK,1,0
+1343,Players,Galorys,,
+1344,KRÜ,inSanitY,,
+1345,RED Canids,Fluxo,0,1
+1346,Solid,MIBR,0,1
+1347,Imperial,BESTIA,0,1
+1348,ODDIK,paiN,0,1
+1349,Sharks,Hype,1,0
+1350,Fluxo,RED Canids,1,0
+1351,inSanitY,KRÜ,,
+1352,MIBR,Solid,0,1
+1353,Case,Dusty Roots,1,0
+1354,Imperial,BESTIA,2,0
+1355,Dusty Roots,Case,1,0
+1356,ALTERNATE aTTaX,Rhyno,2,0
+1357,Aurora,Endpoint,2,0
+1358,Spirit,Liquid,1,2
+1359,Vitality,Astralis,2,0
+1360,Permitta,TALON,2,0
+1361,MIBR,Sharks,0,2
+1362,BIG,ECSTATIC,0,2
+1363,The Huns,-72c,1,0
+1364,Noobs But Diligent,Gods Reign,0,1
+1365,NomadS,Lynn Vision,,
+1366,TYLOO,The QUBE,1,0
+1367,Lynn Vision,NomadS,,
+1368,Gods Reign,Noobs But Diligent,1,0
+1369,Endpoint,CPH Wolves,0,2
+1370,G2,FaZe,2,1
+1371,-72c,The Huns,0,1
+1372,The QUBE,TYLOO,0,1
+1373,3DMAX,Zero Tenacity,2,0
+1374,Housebets,Rooster,0,1
+1375,MANTRA,DXA,1,0
+1376,FlyQuest,Arcade,1,0
+1377,Natus Vincere,Falcons,2,0
+1378,Mindfreak,The Art of War,1,0
+1379,DXA,MANTRA,1,0
+1380,Arcade,FlyQuest,0,1
+1381,Rooster,Housebets,1,0
+1382,Passion UA,WW,2,0
+1383,The Art of War,Mindfreak,1,0
+1384,SINNERS,CYBERSHOKE,0,2
+1385,InControl,Lore,0,2
+1386,E-Xolos LAZER,Limitless,,
+1387,Revenge Nation,Legacy,0,1
+1388,BOSS,Party Astronauts,1,0
+1389,timbermen,NRG,0,1
+1390,Limitless,E-Xolos LAZER,,
+1391,NRG,timbermen,1,0
+1392,Legacy,Revenge Nation,1,0
+1393,Party Astronauts,BOSS,1,0
+1394,Sharks,paiN,0,1
+1395,BESTIA,Hype,1,0
+1396,inSanitY,Players,,
+1397,Fluxo,KRÜ,0,1
+1398,Dusty Roots,Solid,1,0
+1399,ODDIK,RED Canids,0,1
+1400,Galorys,Case,0,1
+1401,Final Form,jahsdnmasjdm,,
+1402,paiN,Sharks,1,0
+1403,Solid,Dusty Roots,1,0
+1404,Players,inSanitY,,
+1405,Hype,BESTIA,1,0
+1406,KRÜ,Fluxo,1,0
+1407,Case,Galorys,0,1
+1408,RED Canids,ODDIK,0,1
+1409,MIBR,Sharks,0,2
+1410,BIG,ECSTATIC,0,2
+1411,The Huns,-72c,1,0
+1412,Noobs But Diligent,Gods Reign,0,1
+1413,NomadS,Lynn Vision,,
+1414,TYLOO,The QUBE,1,0
+1415,Lynn Vision,NomadS,,
+1416,Gods Reign,Noobs But Diligent,1,0
+1417,Endpoint,CPH Wolves,0,2
+1418,G2,FaZe,2,1
+1419,-72c,The Huns,0,1
+1420,The QUBE,TYLOO,0,1
+1421,E-Xolos LAZER,Limitless,,
+1422,Revenge Nation,Legacy,0,1
+1423,BOSS,Party Astronauts,1,0
+1424,timbermen,NRG,0,1
+1425,Limitless,E-Xolos LAZER,,
+1426,NRG,timbermen,1,0
+1427,Legacy,Revenge Nation,1,0
+1428,Party Astronauts,BOSS,1,0
+1429,Sharks,paiN,0,1
+1430,BESTIA,Hype,1,0
+1431,inSanitY,Players,,
+1432,Fluxo,KRÜ,0,1
+1433,Homyno,Aether,0,2
+1434,Anonymo,Apogee,1,0
+1435,UNiTY,Kyoto,0,1
+1436,Back2TheGame,GOT,1,0
+1437,devils.one,ECLOT,0,1
+1438,Gostivar,error404,1,0
+1439,Illuminar,Enterprise Gen,1,0
+1440,Kubix,Permitta,1,0
+1441,Endpoint,Into the Breach,0,2
+1442,Sampi NEXT,Haspers,0,1
+1443,RED Canids,Fluxo,2,1
+1444,Aurora,AMKAL,2,1
+1445,Back2TheGame,Enterprise Gen,0,1
+1446,UNiTY,Haspers,1,0
+1447,devils.one,error404,1,0
+1448,Anonymo,Permitta,0,1
+1449,GOT,Illuminar,0,1
+1450,Sampi NEXT,Kyoto,0,1
+1451,Gostivar,ECLOT,0,1
+1452,Kubix,Apogee,1,0
+1453,Passion UA,DRILLAS,0,2
+1454,inSanitY,Fluxo,0,2
+1455,fnatic,Into the Breach,0,2
+1456,Clutch,-72c,0,1
+1457,Dewa United,Lynn Vision,,
+1458,The QUBE,ATOX,,
+1459,The Huns,TYLOO,1,0
+1460,Bromo,Noobs But Diligent,1,0
+1461,Kenla Gaming,IHC,0,1
+1462,Lynn Vision,Dewa United,,
+1463,-72c,Clutch,1,0
+1464,Monte Gen,Rhyno,2,0
+1465,ATOX,The QUBE,,
+1466,TYLOO,The Huns,1,0
+1467,IHC,Kenla Gaming,1,0
+1468,Noobs But Diligent,Bromo,0,1
+1469,BIG,Monte,0,2
+1470,Permitta,DMS,0,2
+1471,3DMAX,Zero Tenacity,2,1
+1472,FLUFFY AIMERS,LAG,1,0
+1473,E-Xolos LAZER,timbermen,1,0
+1474,Nouns,Legacy,0,1
+1475,Revenge Nation,InControl,2,1
+1476,timbermen,E-Xolos LAZER,0,1
+1477,Legacy,Nouns,1,0
+1478,LAG,FLUFFY AIMERS,0,1
+1479,Mythic,Homyno,2,1
+1480,Homyno,Aether,0,2
+1481,Anonymo,Apogee,1,0
+1482,UNiTY,Kyoto,0,1
+1483,Back2TheGame,GOT,1,0
+1484,devils.one,ECLOT,0,1
+1485,Gostivar,error404,1,0
+1486,Illuminar,Enterprise Gen,1,0
+1487,Kubix,Permitta,1,0
+1488,Endpoint,Into the Breach,0,2
+1489,Sampi NEXT,Haspers,0,1
+1490,RED Canids,Fluxo,2,1
+1491,Dewa United,Lynn Vision,,
+1492,The QUBE,ATOX,,
+1493,The Huns,TYLOO,1,0
+1494,Bromo,Noobs But Diligent,1,0
+1495,Kenla Gaming,IHC,0,1
+1496,Lynn Vision,Dewa United,,
+1497,-72c,Clutch,1,0
+1498,Monte Gen,Rhyno,2,0
+1499,ATOX,The QUBE,,
+1500,TYLOO,The Huns,1,0
+1501,IHC,Kenla Gaming,1,0
+1502,Noobs But Diligent,Bromo,0,1
+1503,paiN,RED Canids,2,0
+1504,Detonate,Aether,0,2
+1505,ECSTATIC,CPH Wolves,2,1
+1506,RED Canids,Fluxo,2,0
+1507,Zero Tenacity,SINNERS,2,0
+1508,Lynn Vision,Passion UA,0,2
+1509,paiN,inSanitY,2,0
+1510,FAVBET,WW,2,0
+1511,Nemiga,AMKAL,1,2
+1512,Zero Tenacity,Nexus,2,0
+1513,ALTERNATE aTTaX,Spirit Academy,0,2
+1514,PARIVISION,Monte,0,2
+1515,ECSTATIC,FAVBET,2,0
+1516,CYBERSHOKE,TALON,2,0
+1517,Metizport,Into the Breach,1,1
+1518,E-Xolos LAZER,Final Form,2,0
+1519,Limitless,jahsdnmasjdm,0,2

@@ -11,7 +11,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from keras.models import load_model
 import tensorflow as tf
-import autokeras as ak
+
 import betting
 
 def fix(odds):
